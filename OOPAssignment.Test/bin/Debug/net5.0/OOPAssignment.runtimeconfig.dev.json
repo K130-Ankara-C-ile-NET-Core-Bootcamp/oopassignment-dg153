@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Doga Can\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Doga Can\\.nuget\\packages"
+    ]
+  }
+}
