@@ -1,0 +1,16 @@
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\OOPAssignment.csproj.AssemblyReference.cache
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\OOPAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\OOPAssignment.AssemblyInfoInputs.cache
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\OOPAssignment.AssemblyInfo.cs
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\OOPAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\bin\Debug\net5.0\OOPAssignment.exe
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\bin\Debug\net5.0\OOPAssignment.deps.json
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\bin\Debug\net5.0\OOPAssignment.runtimeconfig.json
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\bin\Debug\net5.0\OOPAssignment.runtimeconfig.dev.json
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\bin\Debug\net5.0\OOPAssignment.dll
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\bin\Debug\net5.0\ref\OOPAssignment.dll
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\bin\Debug\net5.0\OOPAssignment.pdb
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\OOPAssignment.dll
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\ref\OOPAssignment.dll
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\OOPAssignment.pdb
+C:\Users\Doga Can\source\repos\oopassignment-dg153-master\OOPAssignment\obj\Debug\net5.0\OOPAssignment.genruntimeconfig.cache
